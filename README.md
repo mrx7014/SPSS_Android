@@ -1,6 +1,6 @@
-### SPSS FOR LINUX
+# SPSS FOR LINUX
 
-# First:
+### First:
 
 - install required packages
 
