@@ -25,3 +25,9 @@ sudo rm -r /opt/IBM/**/**/**/** ; cp /spss23/lsvc /opt/IBM/**/**/**
 echo ""
 
 echo -e "\e[042mSPSS Activated Successfully\e[0m"
+
+sleep 1 ; echo ""
+
+echo "CLEAN"
+
+rm -r spss_installer.sh ; spss_activator.sh ; clear
