@@ -1,4 +1,4 @@
-# SPSS FOR LINUX (Android)
+# SPSS FOR LINUX.
 
 ### First:
 
