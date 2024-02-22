@@ -30,5 +30,5 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linus/main/spss_activator.sh
 - Use this to make a Shortcut to open SPSS
 
 ```sh
-curl https://raw.githubusercontent.com/mrx7014/SPSS_Linus/main/spss_installer.sh.sh >> spss_installer.sh
+curl https://raw.githubusercontent.com/mrx7014/SPSS_Linus/main/s.sh >> s.sh
 ```
