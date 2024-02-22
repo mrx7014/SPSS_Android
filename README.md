@@ -1,4 +1,4 @@
-# SPSS FOR LINUX.
+# SPSS FOR LINUX
 
 ### First:
 
