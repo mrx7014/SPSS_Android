@@ -13,14 +13,19 @@ fF9ffCB8LyAuIFwgCiB8X19fX19ffF9fX19ffF98IFxffFxfX19fLy9fLyBcX1wKICAgICAgICAg
 ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
 ICAgCg=="
 
-echo "Welcome to SPSS installer"
-echo "BY: MRX7014 @github"
+echo -e "\e[93mWelcome to SPSS installer\e[0m"
+sleep 1
+echo -e "\e[101mBY: MRX7014 @github\e[0m"
+
+echo ""
 
 sleep 2
 
-echo "Installtion will start now"
+echo -e "\e[44m[*] Installtion will start now"
 
 sleep 1
+
+echo ""
 
 mkdir spss23 ; cd spss23
 
@@ -30,8 +35,12 @@ unzip *.zip
 
 ./*.bin
 
-echo ("[*] GUI Installation Started Now")
+echo ""
+
+echo -e "\e[45m[*] GUI Installation Will Start Now\e[0m"
 
 sleep 60
 
-echo ("[*] Now start activation script")
+echo ""
+
+echo -e "\e[34m[*] Now start activation script\e[0m"
