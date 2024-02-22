@@ -1,3 +1,5 @@
+#!/bin/bash
+
 base64 -d <<<"CiAgIF9fX19fIF9fX19fICAgX19fX18gX19fX18gICAgICAgICAgICAgICAgICAKICAvIF9fX198
 ICBfXyBcIC8gX19fXy8gX19fX3wgICAgICAgICAgICAgICAgIAogfCAoX19fIHwgfF9fKSB8IChf
 X198IChfX18gICAgICAgICAgICAgICAgICAgCiAgXF9fXyBcfCAgX19fLyBcX19fIFxcX19fIFwg
@@ -12,10 +14,14 @@ ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK"
 
 sleep 1
 
+echo ""
+
 echo -e "\e[031mWait...\e[0m"
 
 sleep 3
 
 sudo rm -r /opt/IBM/**/**/**/** ; cp /spss23/lsvc /opt/IBM/**/**/**
+
+echo ""
 
 echo -e "\e[042mSPSS Activated Successfully\e[0m"
