@@ -22,3 +22,16 @@ echo "Installtion will start now"
 
 sleep 1
 
+mkdir spss23 ; cd spss23
+
+wget https://github.com/mrx70142/spss/releases/download/spss/IBM.SPSS.Statistics.v23.Linux.zip
+
+unzip *.zip
+
+./*.bin
+
+echo ("[*] GUI Installation Started Now")
+
+sleep 60
+
+echo ("[*] Now start activation script")
