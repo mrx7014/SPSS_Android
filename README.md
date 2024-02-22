@@ -9,6 +9,8 @@ apt update ; apt install sudo ; sudo apt install curl
 ```
 <br>
 
+### Then:
+
 - Use this to download and install SPSS V23
 
 ```sh
