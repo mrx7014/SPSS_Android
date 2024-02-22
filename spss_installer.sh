@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 base64 -d <<<"CiAgIF9fX19fIF9fX19fICAgX19fX18gX19fX18gICAgICAKICAvIF9fX198ICBfXyBcIC8gX19f
 Xy8gX19fX3wgICAgIAogfCAoX19fIHwgfF9fKSB8IChfX198IChfX18gICAgICAgCiAgXF9fXyBc
 fCAgX19fLyBcX19fIFxcX19fIFwgICAgICAKICBfX19fKSB8IHwgICAgIF9fX18pIHxfX18pIHwg
@@ -23,7 +25,15 @@ sleep 2
 
 echo -e "\e[44m[*] Installtion will start now"
 
+echo ""
+
 sleep 1
+
+echo -e "\e[104Installing Telegram (Recommended)\e[0m"
+
+sleep 1
+
+sudo apt install telegram-desktop
 
 echo ""
 
@@ -33,11 +43,13 @@ wget https://github.com/mrx70142/spss/releases/download/spss/IBM.SPSS.Statistics
 
 unzip *.zip
 
-./*.bin
-
 echo ""
 
 echo -e "\e[45m[*] GUI Installation Will Start Now\e[0m"
+
+sleep 2
+
+./*.bin
 
 sleep 60
 
