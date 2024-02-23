@@ -28,7 +28,7 @@ echo ""
 
 echo -e "\e[042mSPSS Activated Successfully\e[0m"
 
-sleep 1 ; echo ""
+sleep 2 ; echo ""
 
 echo "CLEAN"
 
