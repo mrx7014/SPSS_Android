@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./opt/IBM/**/**/**/**/**/**/**
+./opt/IBM/SPSS/Statistics/23/bin/stats
