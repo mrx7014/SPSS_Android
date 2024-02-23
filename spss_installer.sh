@@ -29,7 +29,7 @@ echo ""
 
 sleep 1
 
-echo -e "\e[104Installing Telegram (Recommended)\e[0m"
+echo -e "\e[104 Installing Telegram (Recommended)\e[0m"
 
 sleep 1
 
