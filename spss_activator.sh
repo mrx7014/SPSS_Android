@@ -22,7 +22,7 @@ echo -e "\e[031mWait...\e[0m"
 
 sleep 3
 
-sudo rm -r /opt/IBM/**/**/**/** ; cp /spss23/lsvc /opt/IBM/**/**/**
+sudo rm -r /opt/IBM/SPSS/Statistics/23/bin/lservrc ; cp /spss23/IBM.SPSS.Statistics.v23.Linux/lservrc /opt/IBM/SPSS/Statistics/23/bin
 
 echo ""
 
@@ -32,4 +32,4 @@ sleep 1 ; echo ""
 
 echo "CLEAN"
 
-rm -r spss_installer.sh ; spss_activator.sh ; clear
+sudo rm -r spss_installer.sh ; sudo rm -r spss_activator.sh ; clear
