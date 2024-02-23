@@ -1,15 +1,8 @@
 # SPSS FOR LINUX
 
-### First:
-
-- install required packages
-
-```sh
-apt update ; apt install sudo ; sudo apt install curl
-```
 <br>
 
-### Then:
+### Guide:
 
 - Use this to download and install SPSS V23
 
