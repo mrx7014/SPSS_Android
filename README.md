@@ -14,7 +14,7 @@ apt update ; apt install sudo ; sudo apt install curl
 - Use this to download and install SPSS V23
 
 ```sh
-curl https://raw.githubusercontent.com/mrx7014/SPSS_Linus/main/spss_installer.sh >> spss_installer.sh ; chmod +x spss_installer.sh ; ./spss_installer.sh
+curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/spss_installer.sh >> spss_installer.sh ; chmod +x spss_installer.sh ; ./spss_installer.sh
 ```
 
 <br>
@@ -22,7 +22,7 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linus/main/spss_installer.sh
 - Use this to activate SPSS
 
 ```sh
-curl https://raw.githubusercontent.com/mrx7014/SPSS_Linus/main/spss_activator.sh >> spss_activator.sh ; chmod +x spss_activator.sh ; ./spss_activator.sh
+curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/spss_activator.sh >> spss_activator.sh ; chmod +x spss_activator.sh ; ./spss_activator.sh
 ```
 
 <br>
@@ -30,5 +30,5 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linus/main/spss_activator.sh
 - Use this to make a Shortcut to open SPSS
 
 ```sh
-curl https://raw.githubusercontent.com/mrx7014/SPSS_Linus/main/s.sh >> s.sh ; chmod +x s.sh ; ./s.sh
+curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/s.sh >> s.sh ; chmod +x s.sh ; ./s.sh
 ```
