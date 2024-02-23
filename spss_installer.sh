@@ -49,7 +49,7 @@ echo -e "\e[45m[*] GUI Installation Will Start Now\e[0m"
 
 sleep 2
 
-./*.bin
+cd IBM.SPSS.Statistics.v23.Linux ; ./*.bin
 
 sleep 60
 
