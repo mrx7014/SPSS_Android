@@ -22,7 +22,7 @@ echo -e "\e[031mWait...\e[0m"
 
 sleep 3
 
-cp /spss23/IBM.SPSS.Statistics.v23.Linux/lservrc /opt/IBM/SPSS/Statistics/23/bin
+cp /sec/root/spss23/IBM.SPSS.Statistics.v23.Linux/lservrc /opt/IBM/SPSS/Statistics/23/bin
 
 echo ""
 
