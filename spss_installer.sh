@@ -51,7 +51,7 @@ sleep 2
 
 cd IBM.SPSS.Statistics.v23.Linux ; chmod +x *.bin ; ./*.bin
 
-sleep 60
+sleep 10
 
 echo ""
 
