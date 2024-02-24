@@ -32,6 +32,11 @@ segfault
 ```sh
 startxvnc
 ```
+- Connection IP:
+
+```sh
+127.0.0.1:5900
+```
 
 - Use this to download and install SPSS V23
 
