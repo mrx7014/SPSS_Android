@@ -1,4 +1,4 @@
-# SPSS FOR LINUX
+# SPSS FOR Android
 
 ### First:
 
@@ -15,6 +15,12 @@ pkg update ; pkg install openssh
 <br>
 
 ### Then:
+
+- Copy this to connect to the server:
+
+```sh
+ssh root@segfault.net
+```
 
 - Use this to download and install SPSS V23
 
