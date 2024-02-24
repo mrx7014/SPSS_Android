@@ -21,6 +21,17 @@ pkg update ; pkg install openssh
 ```sh
 ssh root@segfault.net
 ```
+- Password:
+
+```sh
+segfault
+```
+
+- XVNC command:
+
+```sh
+startxvnc
+```
 
 - Use this to download and install SPSS V23
 
