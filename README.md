@@ -8,7 +8,9 @@
 
 - Download AVNC Viewer: <a href="https://play.google.com/store/apps/details?id=com.gaurav.avnc">Here</a>
 
-- بعد كدا هنثبت البكدجات المطلةبه علي تيرمكس
+<br>
+
+### بعد كدا هنثبت البكدجات المطلوبه علي تيرمكس
 
 ```sh
 pkg update ; pkg install openssh
