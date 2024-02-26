@@ -2,13 +2,13 @@
 
 ### في البدايه حمل البرامج دي:
 
-- تحميل Termux: <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk">Here</a>
+- Download Termux: <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk">Here</a>
 
 - Download VNC Viewer: <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">Here</a>
 
 - Download AVNC Viewer: <a href="https://play.google.com/store/apps/details?id=com.gaurav.avnc">Here</a>
 
-- Install required packages
+- بعد كدا هنثبت البكدجات المطلةبه علي تيرمكس
 
 ```sh
 pkg update ; pkg install openssh
@@ -16,31 +16,31 @@ pkg update ; pkg install openssh
 
 <br>
 
-### Then:
+### الخطوات الثانيه:
 
-- Copy this to connect to the server:
+- انسخ الامر دا عشان تتصل بالسيرفر:
 
 ```sh
 ssh root@segfault.net
 ```
-- Password:
+- الباسورد:
 
 ```sh
 segfault
 ```
 
-- XVNC command:
+- XVNC امر:
 
 ```sh
 startxvnc
 ```
-- Connection IP:
+- الخاص بالسيرفر IP:
 
 ```sh
 127.0.0.1:5900
 ```
 
-- Use this to download and install SPSS V23
+- كومند تحميل و تثبيت برنامج SPSS
 
 ```sh
 curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/spss_installer.sh >> spss_installer.sh ; chmod +x spss_installer.sh ; ./spss_installer.sh
@@ -48,7 +48,7 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/spss_installer.sh
 
 <br>
 
-- Use this to activate SPSS
+- كومند تفعيل البرنامج
 
 ```sh
 curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/spss_activator.sh >> spss_activator.sh ; chmod +x spss_activator.sh ; ./spss_activator.sh
@@ -56,7 +56,7 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/spss_activator.sh
 
 <br>
 
-- Use this to make a Shortcut to open SPSS
+- استخدم الكومند دا عشان تعمل Shortcut لتشغيل البرنامج
 
 ```sh
 curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/s.sh >> s.sh ; chmod +x s.sh ; ./s.sh
@@ -64,7 +64,7 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/s.sh >> s.sh ; ch
 
 <br>
 
-- To open SPSS again use this command
+- كومند فتح برنامج SPSS
 
 ```sh
 ./s.sh
