@@ -1,5 +1,14 @@
 # SPSS FOR Android
 
+# ملاحظات:
+
+- الطريقه دي بتحتاج نت دايما عشان تقدر تستخدم البرنامج
+- الريبو دي هيتم تحديثها دايما لاضافة الاصلاحات و تسهيل الطريقه اكتر و اكتر
+- لو عايز تستفسر عن اي حاجه تواصل معايا علي تليجرام من هنا: https://t.me/mrx7014
+
+<br>
+
+
 ### في البدايه حمل البرامج دي:
 
 - Download Termux: <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk">Here</a>
