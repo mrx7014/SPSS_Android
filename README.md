@@ -61,3 +61,11 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/spss_activator.sh
 ```sh
 curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/s.sh >> s.sh ; chmod +x s.sh ; ./s.sh
 ```
+
+<br>
+
+- To open SPSS again use this command
+
+```sh
+./s.sh
+```
