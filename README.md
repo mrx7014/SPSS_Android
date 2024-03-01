@@ -13,8 +13,6 @@
 
 - Download Termux: <a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk">Here</a>
 
-- Download VNC Viewer: <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">Here</a>
-
 - Download AVNC Viewer: <a href="https://play.google.com/store/apps/details?id=com.gaurav.avnc">Here</a>
 
 <br>
