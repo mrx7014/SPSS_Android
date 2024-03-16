@@ -84,7 +84,7 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/s.sh >> s.sh ; ch
 - كومند فتح البرنامج بعد حل مشكلة مسح البرنامج
 
 ```sh
-curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/another_launcher/s.sh >> s.sh ; chmod +x s.sh ; ./s.sh
+sudo rm -r s.sh ; curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/another_launcher/s.sh >> s.sh ; chmod +x s.sh ; ./s.sh
 ```
 
 - كومند تفعيل البرنامج بعد حل المشكله
