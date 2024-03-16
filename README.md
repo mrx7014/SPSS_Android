@@ -86,3 +86,9 @@ curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/s.sh >> s.sh ; ch
 ```sh
 curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/another_launcher/s.sh >> s.sh ; chmod +x s.sh ; ./s.sh
 ```
+
+- كومند تفعيل البرنامج بعد حل المشكله
+
+```sh
+curl https://raw.githubusercontent.com/mrx7014/SPSS_Linux/main/another_launcher/spss_activator.sh >> spss_activator.sh ; chmod +x spss_activator.sh ; ./spss_activator.sh
+```
